@@ -56,6 +56,11 @@ h2{
 	border: 5px rgb(111,127,122) solid;
 }
 
+footer {
+	text-align: right;
+	background: #fff;
+}
+
 
 
 /* Write all remaining styles here */
